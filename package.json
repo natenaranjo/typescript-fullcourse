@@ -1,0 +1,14 @@
+{
+  "name": "typescript-fullcourse",
+  "version": "1.0.0",
+  "description": "TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 hours - Dave Grey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gitignore": "^0.7.0"
+  }
+}
